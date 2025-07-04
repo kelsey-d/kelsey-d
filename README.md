@@ -14,6 +14,7 @@ Passionate about building accessible, performant web interfaces and currently de
 **Learning**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f3e433?logo=python&logoColor=black)
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelseydamier)
